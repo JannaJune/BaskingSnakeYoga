@@ -290,6 +290,12 @@ main {
 	margin-bottom: 5rem;
 }
 
+.column-right-hp h2 {
+	color: #f5a9d6;
+	font-family: Georgia, "Times New Roman", serif;
+	font-style: italic;
+}
+
 .content-row-with-columns .column-two ul li {
 	margin-bottom: 1rem;
 }
