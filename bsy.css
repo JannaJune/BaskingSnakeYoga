@@ -19,7 +19,7 @@ img {
 
 header { 
 	font-family: Georgia, "Times New Roman", serif;
-	background-image: url(HeaderImg.jpg);
+	background-image: url(images/HeaderImg.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	margin-top: 0;
