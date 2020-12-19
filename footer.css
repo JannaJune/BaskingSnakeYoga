@@ -1,0 +1,51 @@
+
+/*ALL THIS IS FOOTER STUFF - LEAVE IT ALONE ITS THE SAME ON ALL PAGES */
+
+.footer-bar {
+	background: #000000;
+	padding: 0;
+	}
+	
+.footer-bar div {
+	color: #ffffff;
+	}
+
+.footer-bar .left { 
+	float: left;
+	text-align: center;
+	width: 33.33%;
+	}
+
+.footer-bar .middle { 
+	float: left;
+	text-align: center;
+	width: 33.33%;
+	}
+		
+.footer-bar .right { 
+	float: left;
+	text-align: center;
+	width: 33.33%;
+	}
+
+.footer-bar .middle img {
+	margin-left: auto !important;
+	margin-right: auto !important;
+	}
+
+.widget-box p {
+	margin: 0;
+	}
+
+.copyright-bar {
+	text-align: center;
+	padding-bottom: 3rem;
+	font-size: 0.75rem;
+	}
+	
+.widget-box h3 {
+color: pink;}
+
+.widget-box a {
+	color: #39deaa;
+}
