@@ -60,14 +60,12 @@ nav {
 .content-inner-column-container .column-left.image {
 	display: block;
 	width: 100%;
-	background: green;
 	padding: 3rem;
 }
 
 .content-inner-column-container .column-right.content {
 	display: block;
 	width: 100%;
-	background: blue;
 	padding: 3rem;
 }
 
